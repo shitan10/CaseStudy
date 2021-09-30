@@ -1,0 +1,8 @@
+publisher key=  
+
+
+pk_test_51JfQWPSDmzOGbfbUg9ip2Bhq5Ola1xkhr6F7dT1nLu0UPZTuteP3SEbVm5WDpkd4ZnfXbEzeibxLEkW14NyVyzMS00c7GwgVAP
+
+secert key
+
+sk_test_51JfQWPSDmzOGbfbUxLnqo8NZsBF3o37S0sd9ybBrPktg29MeHfbzyzPAWLCklLBavznmqcU2bhM8BBDMr5TJ8Cbv00laDdIlvV
